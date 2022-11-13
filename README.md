@@ -1,1 +1,1 @@
-# SpaceYuuei_UnityApp
+# SPACEDIG用スクリプト
